@@ -1,6 +1,6 @@
 # CareerMentorAI
 
-CareerMentorAI is an AI-powered web platform that streamlines professional growth by providing personalized guidance, intelligent resume and cover letter builders, interview preparation, and actionable industry insights—all in one integrated application.
+CareerMentorAI is an AI-powered web platform that streamlines professional growth by providing personalized guidance, intelligent resume and cover letter builders, interview preparation, and actionable industry insights—all in one integrated application .
 
 ---
 
@@ -197,4 +197,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**CareerMentorAI empowers individuals to unlock their professional potential with smart automation and AI-driven insights.**
+**CareerMentorAI empowers individuals to unlock their professional potential with smart automation and AI-driven insights. **
